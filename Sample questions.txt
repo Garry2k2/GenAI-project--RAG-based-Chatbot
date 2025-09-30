@@ -1,0 +1,13 @@
+```
+Q: What are transformers used for in NLP?
+A: Transformers enable sequence-to-sequence learning with attention, allowing efficient handling of long dependencies in NLP tasks.
+(Source: NLP_with_Transformers.pdf)
+
+Q: What does the attention mechanism do?
+A: Attention allows the model to focus on the most relevant parts of the input sequence while generating outputs.
+(Source: NLP_with_Transformers.pdf)
+
+Q: Who introduced the transformer architecture?
+A: The transformer architecture was introduced by Vaswani et al. in the paper "Attention is All You Need" (2017).
+(Source: NLP_with_Transformers.pdf)
+```
